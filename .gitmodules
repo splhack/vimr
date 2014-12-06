@@ -1,6 +1,6 @@
 [submodule "macvim"]
 	path = macvim
-	url = git://github.com/qvacua/macvim.git
+	url = git://github.com/splhack/macvim.git
 [submodule "vimr-plugin-definition"]
 	path = vimr-plugin-definition
 	url = git://github.com/qvacua/vimr-plugin-definition.git
